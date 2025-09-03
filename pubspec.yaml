@@ -27,5 +27,7 @@ dependencies:
   dio: ^5.7.0
   flutter:
     sdk: flutter
-  flutter_map: ^8.0.0
+  flutter_map:
+    git:
+      url: https://github.com/themon303/flutter_map
   meta: ^1.11.0
